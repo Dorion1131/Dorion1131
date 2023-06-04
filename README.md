@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dorion1131
 - 👀 I’m interested in google maps scrapping
-- 🌱 I’m currently Python
-- 💞️ I’m looking to collaborate coding
+- 🌱 I'm currently trying to learn Python
+- 💞️ I’m looking to collaborate on business analytics
 - 📫 Github
 
 <!---
